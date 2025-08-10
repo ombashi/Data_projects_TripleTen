@@ -6,7 +6,8 @@
 
 ## Highlights (Screenshots)
 ![Overview](./images/overview.png)
-![Key Insight](./images/insight.png)
+![Key Insight](./images/bar.png)
+
 
 ## What to look for
 - Scatter: X = Avg `developer_answered`, Y = Avg `rating` (Details empty, Legend by answered)
