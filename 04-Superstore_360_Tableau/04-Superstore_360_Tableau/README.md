@@ -16,5 +16,4 @@ Tableau (Superstore). KPIs: Sales, Profit, Profit Margin, Return Rate.
 - `workbook/Superstore_360.twbx` *(downloadable package)*
 
 ## Live Demo
-[![View on Tableau Public][
-](https://public.tableau.com/views/Superstore_Project_17505623832440/ExecutiveDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![View on Tableau Public](https://public.tableau.com/views/Superstore_Project_17505623832440/ExecutiveDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
