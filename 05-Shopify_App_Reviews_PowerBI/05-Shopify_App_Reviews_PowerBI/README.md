@@ -5,8 +5,9 @@
 **Result:** 2-point scatter (Yes/No) + ranked bar of most responsive developers (visual filter `reviews_count > 500`).
 
 ## Highlights (Screenshots)
-![Overview](./images/overview.png)
-![Key Insight](./images/bar.png)
+![Overview](../images/overview.png)
+![Key Insight](../images/bar.png)
+
 
 
 ## What to look for
